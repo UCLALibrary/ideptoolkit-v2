@@ -5,10 +5,6 @@ menu: true
 order: 2
 ---
 
-## IDEP Metadata Guidelines
-
-Part of the IDEP Partners Toolkit: [uclalibrary.github.io/ideptoolkit](uclalibrary.github.io/ideptoolkit)
-
 The Guidelines for Descriptive Metadata for the UCLA International Digital Ephemera Project (IDEP) provide descriptive metadata specifications for IDEP partner institutions, with the intent of establishing a common understanding and set of practices across all IDEP collections. Following these guidelines will result in consistent metadata that accurately and adequately describes IDEP collections, facilitates federated searching, and is readily shareable between institutions.
 
 These guidelines seek to provide concrete and specific recommendations wherever possible. However, there are often choices to be made and there is a spectrum of possibilities ranging from the acceptable to the ideal. In addition, the guidelines are meant to apply to a broad range of metadata formats and resource types. In following these guidelines, metadata contributors will be describing both the original object and the digital surrogate of the original object in various parts of the record.
@@ -29,7 +25,7 @@ Additionally, the Digital Library can build more robust services (such as advanc
 
 ## Metadata Template
 
-Metadata for IDEP collections should be submitted to the UCLA Digital Library in spreadsheet form. To facilitate this process, the UCLA Digital Library has created the Metadata Spreadsheet Template that can be used as a starting point for collecting and recording metadata that describe IDEP collections. The spreadsheet includes pre-formatted columns for **Required **(*) and **Recommended** fields, along with descriptions, links to resources, and instructions for use.
+Metadata for IDEP collections should be submitted to the UCLA Digital Library in spreadsheet form. To facilitate this process, the UCLA Digital Library has created the Metadata Spreadsheet Template that can be used as a starting point for collecting and recording metadata that describe IDEP collections. The spreadsheet includes pre-formatted columns for **Required** `*` and **Recommended** fields, along with descriptions, links to resources, and instructions for use.
 
 The Metadata Spreadsheet Template also includes templates (tabs) for specific types of resources (Books, Serials, and Archival Collections). The templates in these tabs are based on the original (General) sheet, but have been edited to address the metadata needs of the specific resource types and should be used when applicable.
 In some cases, a selection of values has been pre-filled, allowing for selection of the appropriate value from a pull-down menu. If one of the pre-filled values does not accurately describe the object, you may fill in a new value; however, most cases will be covered by the existing values.
