@@ -1,8 +1,8 @@
-MIT License
+This software uses portions of Hydejack, which is MIT licensed with the following copyright:
 
 Copyright (c) 2017 Florian Klampfer
 
-This software also uses portions of the Hyde project, which is
+...and the Hyde project, which is
 MIT licensed with the following copyright:
 
 Copyright (c) 2013 Mark Otto
