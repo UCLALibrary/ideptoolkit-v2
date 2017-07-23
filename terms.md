@@ -2,7 +2,7 @@
 layout: page
 title: Descriptive Terms
 menu: true
-order: 2
+order: 3
 ---
 
 Name Authorities:
@@ -64,7 +64,7 @@ CONTRIBUTOR: Those responsible for making contributions to the intellectual or a
 
 It is preferred to take the creator or contributor's name from a standard naming authority file. For IDEP collections, the preferred authority is the [Virtual International Authority File](https://viaf.org) (VIAF). If the name is not found in VIAF, other authority files, such as the Library of Congress Name Authority File (LCNAF), Union List of Artists’ Names (ULAN), or another national authority can be used. If a name does not appear in an authority file, you may establish it in the spreadsheet using the form 'LASTname, FIRSTname'.
 
-In the **Authority** column, indicate the code for the authority source from which the name was taken (VIAF, LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "**local**". 
+In the **Authority** column, indicate the code for the authority source from which the name was taken (VIAF, LCNAF, ULAN, etc.). If the name does not appear in an authority file, the source code should be "**local**".
 
 In the case of multiple creators and/or contributors (of the same type), enter each name separated by " / " in the cell. For multiple contributor types (1 editor, 1 translator), enter the names into separate CONTRIBUTOR columns. Contributor columns must be qualified to indicate the role played (i.e. publisher, editor, etc.). There are a few options available in the template pull-down menu. If these do not accurately reflect the role, you may consult the [MARC Code List: Relator codes](https://www.loc.gov/marc/relators/relaterm.html) or the [ULAN role table](http://www.getty.edu/vow/ULANRolePopup).
 
@@ -138,7 +138,7 @@ Metadata contributors should provide dates to an appropriate level of specificit
 | Exact date | October 26, 1969 | 1969-10-26 |
 | Century | 19th century | 1801/1900 |
 | Estimated date | July or August 1991 | 1991-07/1991-08 |
- 
+
 #### Standards and Guidelines
 * [W3C: Date and time formats](http://www.w3.org/TR/NOTE-datetime)
 
@@ -373,7 +373,7 @@ The form of the title should be taken from a standard naming authority file, suc
 
 Significant names of geographic locations that are the subject of, or that are represented in, on or by the resource.
 
-#### GUIDELINES for creating values for the SUBJECT element 
+#### GUIDELINES for creating values for the SUBJECT element
 The form of the place name should be taken from a standard naming authority file, for IDEP we recommend Thesaurus of Geographic Names (TGN). If the name does not appear in an authority file, establish the name according to a content standard such as AACR2 or CCO.
 
 IDEP uses a hierarchical form for place names, utilizing separate columns for:

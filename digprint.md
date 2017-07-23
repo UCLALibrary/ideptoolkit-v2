@@ -2,7 +2,7 @@
 layout: page
 title: Digitization (Print/Image)
 menu: true
-order: 2
+order: 4
 ---
 ### Guidelines for digital capture & post processing using the Nikon D810 digitization kit
 

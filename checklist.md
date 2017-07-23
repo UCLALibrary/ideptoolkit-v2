@@ -2,7 +2,7 @@
 layout: page
 title: Session Checklist (Print/Image)
 menu: true
-order: 2
+order: 5
 ---
 
 ### Camera Settings
@@ -35,7 +35,7 @@ Make Sure:
       * The template should like something like: “soviet_ Sequence # (00001)
       * Click on Done
       * Click OK
-      
+
 ### Setup the Light Battery Pack & TTL Flash Remote
 
 On Battery Pack:
@@ -58,7 +58,7 @@ On TTL Flash Remote:
   * Take photograph
   * Record the localID (number from the back of poster) in the “Copy Name” field in the Metadata section
   * Repeat until all posters are photographed
-  
+
 ### Finishing the shoot
 
 * Put lens cap on camera lens
@@ -105,6 +105,6 @@ Export image batch as TIFF
   * In the Filename Template Editor window, add “Filename_Copy Name” to the template editor using the Insert buttons (see image below), then select Done
   * In File Settings section, set file extension to TIFF
   * Export
-  
-Give the external drive with the new batch of images to the metadata team 
+
+Give the external drive with the new batch of images to the metadata team
 Done!

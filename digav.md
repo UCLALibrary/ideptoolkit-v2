@@ -2,7 +2,7 @@
 layout: page
 title: Digitization (A/V)
 menu: true
-order: 2
+order: 6
 ---
 
 ## Equipment List
@@ -26,7 +26,7 @@ order: 2
 6. Single edge razor or sharp scissors
 ![](../assets/img/digav/razor.png)![](../assets/img/digav/scissor.png)
 <br>**For cleaning the video heads when they become clogged (7-8):**   
-                                               
+
 7. Lint-free swabs (for cleaning the video heads)
 ![](../assets/img/digav/swabs.png)
 

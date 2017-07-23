@@ -2,7 +2,7 @@
 layout: page
 title: File Naming & Organization
 menu: true
-order: 2
+order: 1
 ---
 
 ### Best Practices
