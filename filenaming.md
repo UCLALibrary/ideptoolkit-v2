@@ -5,7 +5,7 @@ menu: true
 order: 1
 ---
 
-Well-organized structures and consistent file names make it easier to keep track of and organize files, and is necessary for IDEP workflows. When naming and organizing files, you should be consistent and ordered so that files are easily identified and sort properly. Set up a clear directory structure and file naming convention that follows a pattern like `project identifier + grouping (like date or volume) + some type of unique identifier`.
+Well-organized structures and consistent file names make it easier to keep track of and organize files, and are necessary for IDEP workflows. When naming and organizing files, you should be consistent and ordered so that files are easily identified and sort properly. Set up a clear directory structure and file naming convention that follows a pattern like `project identifier + grouping (like date or volume) + some type of unique identifier`.
 
 ### Structuring Data
 Think carefully about how best to structure your data from the very earliest stages of your project. Try to keep a shallow hierarchy (no deep nesting of folders). Individual directories may be grouped by a number of different criteria, including date, format, sub-collection, or whatever categories make the most sense for your project.
@@ -25,7 +25,7 @@ File names should allow you to identify files with precision from the name. Choo
 
 **Some best practices:**
 
-* All special characters such as `~ ! @ - # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |` should be avoided. Stick to numbers, roman letters (preferably lower case), and underscores `_`.
+* All special characters such as `~ ! @ - # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |` should be avoided. Stick to numbers, Roman letters (preferably lower case), and underscores `_`.
 * Do not use spaces or dashes. Some software will not recognize file names with spaces, and file names with spaces must be enclosed in quotes when using the command line.
 * Alternatives to spaces include:
   * Underscores, e.g. `file_name.xxx`
@@ -37,4 +37,4 @@ File names should allow you to identify files with precision from the name. Choo
 
 ### Other Tips
 
-Include a `README.txt` file in the directory that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future
+Include a `README.txt` file in the directory that explains your naming format along with any abbreviations or codes you have used. This documentation will be helpful both during the project or experiment, and also in the future.
